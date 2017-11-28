@@ -5,6 +5,10 @@ Introduction and document please refer to /document
 
 **Note: this game is only support win32 for now**
 
+## Game preview
+
+![clientstart](documents/fudancraft.gif)
+
 [中文介绍](#中文介绍)
 
 ## How to compile
